@@ -1,0 +1,3 @@
+[submodule "sub/frameworks"]
+	path = sub/frameworks
+	url = https://github.com/eggcloud/ccc.git
